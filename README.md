@@ -1,7 +1,7 @@
 # eDs0
 使用方法
 ```
-javascript:(function () { var s = document.createElement('script'); s.src="https://axutebils74.github.io/eDs0/index.js"; document.body.appendChild(s)})();
+javascript:(function(){var s=document.createElement('script');s.src="//axutebils74.github.io/eDs0/index.js";document.body.appendChild(s)})();
 ```
 # 引用
 ### LZMA
